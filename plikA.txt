@@ -2,3 +2,4 @@ Dodanie funkcjonalnosci do plikuA.
 Dodaje druga linijke
 Dodaje trzecia linijke
 ostateczna edycja przed branchem
+Powowna edycja
