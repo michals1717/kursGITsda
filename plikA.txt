@@ -1,2 +1,3 @@
 Dodanie funkcjonalnosci do plikuA.
 Dodaje druga linijke
+Dodaje trzecia linijke
